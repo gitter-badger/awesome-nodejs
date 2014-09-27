@@ -1,4 +1,5 @@
 # Awesome Node.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pajarraco/awesome-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
 
